@@ -1,1 +1,1 @@
-# CTF challs hosted by PointBlank
+# Challs for CTF hosted by PointBlank
