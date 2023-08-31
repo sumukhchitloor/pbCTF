@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Chall2 for CTF",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sumukh Chitloor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": []
+}
