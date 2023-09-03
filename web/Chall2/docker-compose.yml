@@ -1,0 +1,19 @@
+version: '3'
+services:
+  nodejs-server:
+    image: node:14  # Use a lightweight Node.js image
+    container_name: your-container-name  # Replace with your desired container name
+    working_dir: /app
+    volumes:
+      - .:/app  # Mount the current directory into the container
+    ports:
+      - "3000:3000"  # Map host port 3000 to container port 3000
+    command: npm start  # Start your Node.js application using the "start" script
+    environment:
+      - NODE_ENV=production  # Set the Node.js environment to production
+    networks:
+      - your-network-name  # Create a user-defined network for the container
+
+networks:
+  your-network-name:
+    driver: bridge
