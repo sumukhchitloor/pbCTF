@@ -1,0 +1,29 @@
+> Welcome, digital detectives, to the heart of Tokyo's urban jungle! Picture this: the rhythmic flutter of pigeons' wings, the hum of street life, and one vigilant observer capturing nature's nuances. Embark on a quest within an image of Tokyo's lively streets. One observer stands out among the crowd—a sentinel of serenity amidst the urban rhythm. Shift your view to the left. A person, adorned in a colored hoodie, immortalizes plant life with a camera's lens, heavier than a pigeon and wearing purple shoes with pink ribbon in his pocket
+
+> Your task is to find the color of the hoodie and answer the puzzle like pbCTF{color_hoodie}
+ Eg: If it is a black hoodie then the flag will be pbCTF{black_hoodie}
+
+---
+# Solution
+
+The title of the question is Pigeon People and by looking at the image provided, there a people wearing pigeon mask on their head. On googling the them out this is the results we find.
+![[pigeon-people-google-result.png]]
+
+Hear you see that there are lot of similar images that the challenge has provided and also If you see through the links indexed ,we see that this image is taken in Japan which is referenced as 
+` Tokyo's urban jungle`  in the question.
+
+You can also reverse search in the google with the image that we have provided. On doing that we get these results.
+
+![[Pasted image 20230903145356.png]]
+
+Here we search all the website that have the same website, you can choose any website that will provide the google map view of the exact image. We will proceed with [Wired Google Earth](https://www.weirdgoogleearth.com/2014/12/24/japanese-bird-people/)website. 
+
+![[Pasted image 20230903145822.png]]
+
+We can see the exact the view of the image in website embedded in google maps , the question asked us to move our view to the left and when do so . We can see a man holding a camera.
+
+![[Pasted image 20230903150305.png]]
+
+This man matches exactly with the description `A person, adorned in a colored hoodie, immortalizes plant life with a camera's lens, heavier than a pigeon and wearing purple shoes with pink ribbon in his pocket` . Therefore the color of the hoodie is red.
+
+> Flag is pbCTF{red_hoodie}
