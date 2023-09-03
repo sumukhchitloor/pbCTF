@@ -57,15 +57,10 @@ We obtain 2 strings of text let's keep them both for now `coPGS{V_jnf_u3e3}` and
 Let's try Rot-13 with the strings we obtained. I'll be using https://gchq.github.io/CyberChef/ for this and we can see the following results 
 ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/101e1b48-601c-4ebe-967d-701f973ec9b0)
 
+We can see the first string translates to the flag
+
+>Flag : pbCTF{I_was_h3r3}
 
 
 
-
-
-
-
-
-
-
-
-
+>Happy Hacking :)
