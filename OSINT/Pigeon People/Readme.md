@@ -5,6 +5,8 @@
 >Your task is to find the color of the hoodie and answer the puzzle like pbCTF{color_hoodie}
  Eg: If it is a black hoodie then the flag will be pbCTF{black_hoodie}
 
+![peigon](https://github.com/sumukhchitloor/pbCTF/assets/76547134/a466f027-ad0e-4be1-891a-502c5b1ea0f7)
+
 # Solution
 
 The title of the question is Pigeon People and by looking at the image provided, there is a people wearing pigeon masks on their heads. On googling them out this is the result we find.
