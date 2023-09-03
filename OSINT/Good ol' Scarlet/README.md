@@ -12,7 +12,7 @@
 
 https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-b7c7ff52eb74
 
->The audio here is in mp4 format convert it to .wav to use it (https://cloudconvert.com/mp4-to-wav)
+>The audio here is in mp4 format convert it to .wav to use it (https://cloudconvert.com/mp4-to-wav). It was given in .wav format during the CTF hence no need to change the format over there.
 
  ## Solution
 
