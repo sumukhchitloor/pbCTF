@@ -9,8 +9,14 @@
 >
 > Flag Format : pbCTF{[A-Za-z0-9]}
 >
-> 
+
+https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-b7c7ff52eb74
+
+>The audio here is in mp4 format convert it to .wav to use it (https://cloudconvert.com/mp4-to-wav)
+
  ## Solution
+
+
 
  First we see that the challenge is name `Good ol' Scarlet` is Scarlet the name of the old friend let's keep this as a clue and proceed.
  On listening to the audio file we can listen to a series of beeps (Which are dots and dashes).
