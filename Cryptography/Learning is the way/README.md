@@ -17,6 +17,8 @@ In this case I'm using `https://gchq.github.io/CyberChef/`. Here is a common tri
 With that being said this is a baby level challenge we don't expect you to know about online tools and stuff so let's take it from a newbies perspective.
 What is the first question that popped up in your head when you read the question ? 
 `What is this string?` probably something similar to this. Let's just ask the most popular tool everyone has been using in recent times.
+
+
 ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/08284bb6-1f16-4ede-b525-dcddd32dd6ab)
 
 We find the link `https://pastebin.com/148a4TQP`. On this link we find genuine learning material and on scrolling to the end of the list of resources you will find the flag `pbCTF{never_stop_learning}`
