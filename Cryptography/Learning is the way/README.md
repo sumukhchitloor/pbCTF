@@ -10,6 +10,8 @@
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vMTQ4YTRUUVA=` This is a Cryptography challenge based on the category so you can use any tool available online to identify what this string is.
 In this case I'm using `https://gchq.github.io/CyberChef/`. Here is a common trick while using Cyberchef just paste a string you find is suspicious in the input feild (no need of a recipe) and if a *wand* appears next to the output section then it means it a very commonly used encryption and tool decodes it for you.
+
+
 ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/bf86e10b-2111-46ed-a891-66142e9b59b6)
 
 With that being said this is a baby level challenge we don't expect you to know about online tools and stuff so let's take it from a newbies perspective.
