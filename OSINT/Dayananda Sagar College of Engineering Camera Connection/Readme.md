@@ -7,7 +7,7 @@
 
 # Solution
 
-You need to find a page that shows a live preview of 26 cameras in the DSCE website and it also mentions using Google-Fu in the alumni section
+You need to find a page that shows a live preview of 26 cameras in the DSCE website in the alumni section and it also mentions using Google-Fu.
 > Google-fu (uncountable) (informal) Skill in using search engines (especially Google) to quickly find useful information on the Internet. quotations
 
 To find the desired website with the IP address, we can normally Google search and find the answer, but there is another way to find it quicker, using Google-Fu/Google Dorks. 
