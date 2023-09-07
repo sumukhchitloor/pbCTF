@@ -1,1 +1,1 @@
-# Challenges for CTF hosted by PointBlank
+# Challenges for CTF hosted by pbCTF v1
