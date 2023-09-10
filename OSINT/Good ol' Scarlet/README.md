@@ -37,7 +37,7 @@ https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-
 
  
  ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/4f8c6fd0-b1d3-4d6f-9f91-d014039331a7)
-on watching the video and reading the `newest` comments (also a clue ffrom the question)
+on watching the video and reading the `newest` comments (also a clue from the question)
 
 
 
