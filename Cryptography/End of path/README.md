@@ -11,7 +11,7 @@
 
 # Solution
 
-`Going left holds the key to proceed on the right path` this seems like a cipher which uses a key so let's find the key from the left path first. Now to find the these paths..On visiting the github link given we see the user has 5 repositories
+`Going left holds the key to proceed on the right path` this seems like a cipher which uses a key so let's find the key from the left path first. Now to find these paths..On visiting the github link given we see the user has 5 repositories
 ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/c00c5c7d-6c21-48db-bf29-6a230adeee55)
 
 On viting the repositories we find that most of them are empty and when we land on the `Former_Roman_Dictator` repository (Strange name let's keep this is mind) we get to see this
