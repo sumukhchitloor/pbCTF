@@ -10,7 +10,11 @@
 > Flag Format : pbCTF{[A-Za-z0-9]}
 >
 
-https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-b7c7ff52eb74
+
+
+https://github.com/sumukhchitloor/pbCTF/assets/84336892/1b098db5-1277-461a-8563-166b43b12aee
+
+
 
 >The audio here is in mp4 format convert it to .wav to use it (https://cloudconvert.com/mp4-to-wav). It was given in .wav format during the CTF hence no need to change the format over there.
 
@@ -26,7 +30,8 @@ https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-
 
 
  
- ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/7644f10e-fced-40e7-938e-7b47e04618dc)
+ ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/0fcdf16e-38a8-4d08-974e-c653888a1870)
+
 
  
  Once again reading the question we can see that the friend was into making Audio (which is given) and Video
@@ -36,16 +41,19 @@ https://github.com/sumukhchitloor/pbCTF/assets/84336892/6ae00066-d069-481e-86c0-
 
 
  
- ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/4f8c6fd0-b1d3-4d6f-9f91-d014039331a7)
+ ![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/1d209d19-3a22-4ad4-bd7b-83365fb55c8a)
+
 on watching the video and reading the `newest` comments (also a clue from the question)
 
 
 
-![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/39fa3723-f648-436e-98ba-8c0ef586c616)
+![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/2f34f904-55f8-472e-b903-18f4c12d5a67)
+
 we can see that a comment by the user `@user-gb1pg8es1j` who has commented the flag.
 
 
-![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/899d4fef-7bf7-4fd9-bd9a-65f57c1450d4)
+![image](https://github.com/sumukhchitloor/pbCTF/assets/84336892/62a7b8fa-b627-48d7-8698-29832e6355f0)
+
 
 
 
